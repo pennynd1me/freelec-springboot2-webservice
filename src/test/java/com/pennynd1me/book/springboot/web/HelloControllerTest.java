@@ -1,4 +1,4 @@
-package com.pennynd1me.book.springboot;
+package com.pennynd1me.book.springboot.web;
 
 import com.pennynd1me.book.springboot.web.HelloController;
 import org.junit.jupiter.api.Test;
